@@ -912,85 +912,6 @@ section.article {
 
 
 
-  
-/* Popular Member css */
-section.popular-member {
-    margin-top: 80px;
-    margin-bottom: 110px;
-}
-
-.popular-bg {
-    height: 562px;
-    background: linear-gradient(97.06deg, #2E407E -11.18%, #6906a1 105.62%);
-
-}
-
-
-.popular-member-heading {
-    text-align: center;
-    position: relative;
-}
-
-img.popular_love1 {
-    position: absolute;
-    right: -150px;
-    top: 28px;
-}
-
-img.popular_love2 {
-    position: absolute;
-    left: -60px;
-    top: -30px;
-}
-
-.popular-member-heading h2 {
-    margin-top: 155px;
-    font-size: 44px;
-    line-height: 54px;
-    color: #ffffff;
-    font-family: 'GilroyBold';
-}
-
-
-.popular-member-heading p {
-    font-size: 16px;
-    color: #ffffff;
-    font-family: 'GilroyRegular';
-    line-height: 26px;
-    margin-top: 16px;
-}
-
-.popular-list {
-    background: #FFFFFF;
-    border-radius: 16px;
-    padding: 10px 10px 0px 10px;
-    text-align: center;
-}
-
-.popular-list .popular-list-content {
-    background: linear-gradient(180deg, #5EC3FC 0%, #0066FF 100%);
-    text-align: center;
-    border-radius: 16px;
-    padding: 16px 0px;
-}
-
-.row.popular-member-row {
-    margin-top: 70px;
-}
-.popular-list-content h4 {
-    font-size: 16px;
-    color: #ffffff;
-    font-family: 'GilroySemiBold';
-    line-height: 26px;
-}
-
-.popular-list-content p {
-    color: #ffffff;
-    font-size: 16px;
-    font-family: 'GilroyRegular';
-    line-height: 26px;
-}
-
 
 .about-page-client {
     margin-top: 170px !important;
@@ -1022,6 +943,120 @@ section.study-abroad {
     margin-top: 110px;
 }
 
+
+
+
+
+
+section.ceo {
+    margin-top: 110px;
+}
+
+.ceo-img img {
+    width: 350px;
+}
+
+.ceo-message {
+    padding-left: 30px;
+}
+
+.ceo-message h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #620b62;
+    margin-bottom: 36px;
+}
+
+
+
+
+
+
+
+/* 5. Feature css */
+
+section.choose {
+    background: #F6F9FF;
+   margin-top: 150px;
+   padding: 80px 0px;
+}
+
+.choose-container {
+    padding-left: 34px;
+    padding-right: 34px;
+}
+
+
+.choose-img img {
+    padding-left: 100px;
+}
+
+
+.choose-img img {
+    width: 100%;
+}
+
+.choose-content {
+    padding-left: 14px;
+}
+
+
+.choose-content h2 {
+    color: #3B406C;
+    font-size: 44px;
+    font-family: 'GilroyBold';
+    line-height: 54px;
+    margin-top: 20px;
+}
+
+.choose-content p {
+    color: #3B406C;
+    font-size: 16px;
+    font-family: 'GilroyRegular';
+    line-height: 26px;
+    margin-bottom: 30px;
+    margin-top: 18px;
+}
+
+
+
+
+
+
+section.team-section {
+    margin-top: 110px;
+}
+
+.team-item {
+    text-align: center;
+    box-shadow: 0px 1px 10px gainsboro;
+    padding-bottom: 16px;
+    margin-top: 32px;
+}
+
+.team-item img {
+    width: 100%;
+}
+
+.team-item a img {
+    width: 16px;
+    height: 16px;
+}
+
+.team-item h3 {
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 16px;
+    color: #720572;
+}
+
+.team-item h4 {
+    font-size: 20px;
+    color: #4f054f;
+    font-weight: 400;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
   
   
   
